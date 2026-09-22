@@ -1,0 +1,30 @@
+{
+  "name": "Gerai Land Mini Soccer Purwokerto",
+  "short_name": "Gerai Land",
+  "description": "Booking lapangan mini soccer di Purwokerto Utara.",
+  "start_url": "https://zrdt-merch.github.io/gerai-land/",
+  "scope": "https://zrdt-merch.github.io/gerai-land/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B2419",
+  "theme_color": "#0B2419",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "https://zrdt-merch.github.io/gerai-land/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://zrdt-merch.github.io/gerai-land/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://zrdt-merch.github.io/gerai-land/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

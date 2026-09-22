@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /gerai-land/
+
+Sitemap: https://zrdt-merch.github.io/gerai-land/sitemap.xml
